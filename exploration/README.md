@@ -8,7 +8,7 @@ In Maji Ndogo and communities worldwide, **access to clean and reliable water** 
 
 The project is divided into four parts, each one progressively increasing in SQL syntax complexity and analytical depth. These sections serve as a comprehensive guide on approaching and resolving data-driven challenges while showcasing the power of SQL.
 
-# [Part 1: Beginning Our Data-Driven Journey in Maji Ndogo](./water_access/exploration/part1.ipynb)
+# [Part 1: Beginning Our Data-Driven Journey in Maji Ndogo](./exploration/part1.ipynb)
 
 In the first part, we explore Maji Ndogo's extensive database of 60,000 records across various tables. Through **basic queries**, we familiarize ourselves with the dataset, clean some of the data, and refine it using Data Manipulation Language (**DML**).
 
@@ -19,7 +19,7 @@ In the first part, we explore Maji Ndogo's extensive database of 60,000 records 
 - **Utilize DML** effectively while understanding the **risks of altering a database**.
 
 
-# [Part 2: Clustering Data to Unveil Maji Ndogo's Water Crisis](./water_access/exploration/part2.ipynb)
+# [Part 2: Clustering Data to Unveil Maji Ndogo's Water Crisis](.exploration/part2.ipynb)
 
 In this section, we use **SQL functions**, including **complex window functions**, to analyze Maji Ndogo's water situation and draw deeper insights from the data.
 
@@ -28,7 +28,7 @@ In this section, we use **SQL functions**, including **complex window functions*
 - Apply **SQL functions** and **window functions** to **clean and analyze** data.
 - Perform data **aggregation techniques** to unravel the scale of the problem, and start to form some actionable insights
 
-# [Part 3: Weaving the Data Threads of Maji Ndogo's Narrative](./water_access/exploration/part3.ipynb)
+# [Part 3: Weaving the Data Threads of Maji Ndogo's Narrative](.exploration/part3.ipynb)
 
 Here, we will pull data from **multiple tables** and perform **statistical analyses** to evaluate the findings of an audit report. This section highlights the challenges of combining data from different sources.
 
@@ -38,7 +38,7 @@ Here, we will pull data from **multiple tables** and perform **statistical analy
 - Use advanced SQL tools to **assemble the pieces of an audit together**.
 - Understanding the challenges associated with **joining multiple data sources together**.
 
-# Part 4: Charting the Course for Maji Ndogo's Water Future(./water_access/exploration/part4.ipynb)
+# Part 4: Charting the Course for Maji Ndogo's Water Future(.exploration/part4.ipynb)
 
 In the final part of the project, we will conclude our data analysis using the **full suite of SQL tools**. We will derive our final insights, categorize water sources, and prepare relevant information for relevant stakeholders i.e. Maji Ndogo's engineering teams.
 
@@ -53,7 +53,7 @@ achieve them.
 ## Additional Files
 
 - **Entity-Relationship Diagram (ERD)**: Visualizing the database schema for the project. Available in the [`assets`](./water_access/assets/) folder.
-- **Visuals and Charts**: Supporting graphics from SQL analyses can be found in the [`assets`](./water_access/assets/) folder.
+- **Visuals and Charts**: Supporting graphics from SQL analyses can be found in the [`assets`](./exploration/assets/) folder.
 
 > ## **NOTE**:
 - All notebooks contain detailed explanations to showcase the thought process behind the analysis.
