@@ -18,7 +18,7 @@ The project is divided into **two phases**, each focused on solving specific cha
 
 This phase is split into two key sections:
 
-### 1. [Exploration: Starting the Journey]((./exploration/)
+### 1. [Exploration: Starting the Journey](./exploration/)
 
 This phase tackles the **water crisis** in Maji Ndogo by analyzing and diving deep into large datasets to uncover actionable insights. Using SQL, we explore data about water sources, community access, and related challenges that highlight the struggles faced by the country's residents. 
 
