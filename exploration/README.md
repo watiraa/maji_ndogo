@@ -38,7 +38,7 @@ Here, we will pull data from **multiple tables** and perform **statistical analy
 - Use advanced SQL tools to **assemble the pieces of an audit together**.
 - Understanding the challenges associated with **joining multiple data sources together**.
 
-# Part 4: Charting the Course for Maji Ndogo's Water Future(./part4.ipynb)
+# [Part 4: Charting the Course for Maji Ndogo's Water Future](./part4.ipynb)
 
 In the final part of the project, we will conclude our data analysis using the **full suite of SQL tools**. We will derive our final insights, categorize water sources, and prepare relevant information for relevant stakeholders i.e. Maji Ndogo's engineering teams.
 
@@ -52,8 +52,8 @@ achieve them.
 
 ## Additional Files
 
-- **Entity-Relationship Diagram (ERD)**: Visualizing the database schema for the project. Available in the [`assets`](./assets/) folder.
-- **Visuals and Charts**: Supporting graphics from SQL analyses can be found in the [`assets`](./assets/) folder.
+- **Entity-Relationship Diagram (ERD)**: The database schema for the project is available in the [`assets`](./assets/) folder.
+- **Visuals and Charts**: Supporting graphics from SQL analyses can also be found in the [`assets`](./assets/) folder.
 
 > ## **NOTE**:
 - All notebooks contain detailed explanations to showcase the thought process behind the analysis.
