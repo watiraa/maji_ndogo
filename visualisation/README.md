@@ -6,9 +6,9 @@ The data collected on water sources, water collection, and crime in Maji Ndogo p
 
 ## Project Overview
 
-The [visualisation](.water_access/visualisation/) phase focuses on transforming the survey data into actionable insights, using Power BI to deliver clean, interactive reports to stakeholders. We aim to report meaningful insights that can guide future decisions and improvements for the community.
+The phase focuses on transforming the survey data into actionable insights, using Power BI to deliver clean, interactive reports to stakeholders. We aim to report meaningful insights that can guide future decisions and improvements for the community.
 
-# [Part 5: Visualising Maji Ndogo’s Past](./water_access/visualisation/part5.ipynb)
+# [Part 5: Visualising Maji Ndogo’s Past](./part5.ipynb)
 
 This section aims to address gender inequality in water access within Maji Ndogo. By analyzing the data, we seek to highlight how the unequal distribution of water sources affects daily life and contributes to broader challenges.
 
@@ -18,7 +18,7 @@ This section aims to address gender inequality in water access within Maji Ndogo
 - Visualise time spent by different demographics on water collection.
 - Set a foundation for future reports that will inform gender-focused policies in water access.
 
-# [Part 6: Moulding Data into Visual Stories in Maji Ndogo](./water_access/visualisation/part6.ipynb)
+# [Part 6: Moulding Data into Visual Stories in Maji Ndogo](./part6.ipynb)
 
 In this part of the project, we explore the relationship between crime rates and overcrowding at water collection points. By mapping this information, we aim to offer a clearer view of the social and economic impacts of the water crisis on Maji Ndogo's communities.
 
@@ -29,7 +29,7 @@ In this part of the project, we explore the relationship between crime rates and
 - Identify solutions for mitigating crime at water collection sites.
 
 
-# [Part 7: Communicating Our Findings in Maji Ndogo](./water_access/visualisation/part7.ipynb)
+# [Part 7: Communicating Our Findings in Maji Ndogo](./part7.ipynb)
 
 This project showcases the use of **calculated columns** and **measures** in Power BI to effectively visualise improvements in water access across Maji Ndogo. The primary focus is to present findings from the water access analysis to decision-makers at both national and provincial levels. The report highlights results, key insights, and actionable recommendations to inform **policy-making** and **resource allocation** strategies.
 
@@ -39,7 +39,7 @@ This project showcases the use of **calculated columns** and **measures** in Pow
 - Design reports that support informed decision-making for stakeholders.
 - Provide actionable insights improving resource allocation for water access improvements.
 
-# [Part 8: Transparency in Tracking Maji Ndogo's Water Funds](./water_access/visualisation/part8.ipynb)
+# [Part 8: Transparency in Tracking Maji Ndogo's Water Funds](./part8.ipynb)
 
 In the final phase of the project, we deliver a comprehensive report on the progress of water-related initiatives in Maji Ndogo. This report aims to keep decision-makers informed about improvements, ongoing challenges, and areas requiring further attention. The focus is on fund allocation for the Maji Ndogo Water improvement project. To promote transparency and empower decision-makers, we design a Power BI dashboard that monitors the funding, ensuring resources are utilized efficiently and effectively.
 
