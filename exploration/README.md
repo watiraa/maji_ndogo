@@ -52,8 +52,7 @@ achieve them.
 
 ## Additional Files
 
-- **Entity-Relationship Diagram (ERD)**: The database schema for the project is available in the [`assets`](./assets/) folder.
-- **Visuals and Charts**: Supporting graphics from SQL analyses can also be found in the [`assets`](./assets/) folder.
+- **Entity-Relationship Diagram (ERD)** & **Chart Visuals**: The database schema for the project and supporting graphics from SQL analyses are available in the [`assets`](./assets/) folder.
 
 > ## **NOTE**:
 - All notebooks contain detailed explanations to showcase the thought process behind the analysis.
