@@ -14,34 +14,27 @@ The project is divided into **two phases**, each focused on solving specific cha
 
 ## Project Structure
 
-### Phase 1: Water Access Analysis
+## Phase 1: Water Access Analysis
 
 This phase is split into two key sections:
 
-#### 1. Exploration: Starting the Journey
+### 1. [Exploration: Starting the Journey]((./exploration/)
 
 This phase tackles the **water crisis** in Maji Ndogo by analyzing and diving deep into large datasets to uncover actionable insights. Using SQL, we explore data about water sources, community access, and related challenges that highlight the struggles faced by the country's residents. 
 
 - Parts 1–4: Step-by-step SQL exploration, from basic queries to advanced data aggregation techniques.
-- Key insights include:
-	- Clustering of water sources and its impact on the population.
-	- Cross-referenced statistical analyses to verify data accuracy.
 
-For more details on this phase, view the [Exploration Project Overview](./water_access/exploration/README.md).
+For more details on this phase, view the [Exploration Project Overview](./exploration/README.md).
 
-#### 2: Visualisation: Our Story Continues
+### 2: [Visualisation: Our Story Continues](./visualisation/)
 
 Building on the insights from the exploration phase, this section utilizes Power BI to craft interactive reports that communicate findings effectively to key stakeholders. Through this project, we aim to set a high standard for data presentation, ensuring that each insight is accessible and resonant, leading to informed strategies that address water accessibility issues comprehensively.
 
 - Parts 5–8: Focus on storytelling through visual data integration and dashboard creation.
-- Highlights:
-	- Gender analysis at water collection points.
-	- Integration of crime and survey data for enhanced insights.
-	- Dashboards tracking fund allocation and project impact, ensuring transparency.
 
-For more details on this phase, view the [Visualisation Project Overview](./water_access/visualisation/README.md).
+For more details on this phase, view the [Visualisation Project Overview](./visualisation/README.md).
 
-### Phase 2: Farm Survey Analysis *(Coming Soon)*
+## Phase 2: Farm Survey Analysis *(Coming Soon)*
 
 This phase will explore survey data on farming practices in Maji Ndogo. The analysis will highlight trends in agricultural productivity, resource allocation, and sustainability.
 
