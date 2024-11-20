@@ -39,7 +39,7 @@ This project showcases the use of **calculated columns** and **measures** in Pow
 - Design reports that support informed decision-making for stakeholders.
 - Provide actionable insights improving resource allocation for water access improvements.
 
-# [Part 8: Transparency in Tracking Maji Ndogo's Water Funds](.part8/part8.ipynb)
+# [Part 8: Transparency in Tracking Maji Ndogo's Water Funds](./part8/part8.ipynb)
 
 In the final phase of the project, we deliver a comprehensive report on the progress of water-related initiatives in Maji Ndogo. This report aims to keep decision-makers informed about improvements, ongoing challenges, and areas requiring further attention. The focus is on fund allocation for the Maji Ndogo Water improvement project. To promote transparency and empower decision-makers, we design a Power BI dashboard that monitors the funding, ensuring resources are utilized efficiently and effectively.
 
